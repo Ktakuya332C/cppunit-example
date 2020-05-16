@@ -1,4 +1,4 @@
-# cppunit examples
+# cppunit example
 A simple cppunit example with cmake
 
 ## Install cppunit
